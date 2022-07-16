@@ -20,6 +20,7 @@ Table 2: New District Summary
 
 
 How is the school summary affected?
+
 ![Original_school_summary](https://github.com/AviLevyHTX/School_District_Analysis/blob/main/analysis/Original_school_performance.PNG)
 
 ![New_school_summary](https://github.com/AviLevyHTX/School_District_Analysis/blob/main/analysis/New_school_summary.PNG)
