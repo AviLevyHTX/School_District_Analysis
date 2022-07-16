@@ -12,7 +12,7 @@ Results: Using bulleted lists and images of DataFrames as support, address the f
 How is the district summary affected?
 
 Table 1: Original District Summary
-![Original_district_summary](https://github.com/AviLevyHTX/School_District_Analysis/blob/main/analysis/Original_district_summary1.PNG)
+![Original_district_summary](https://github.com/AviLevyHTX/School_District_Analysis/blob/main/analysis/Original_district_summary2.PNG)
 
 Table 2: New District Summary
 ![New_district_summary](https://github.com/AviLevyHTX/School_District_Analysis/blob/main/analysis/New_district_summary.PNG)
