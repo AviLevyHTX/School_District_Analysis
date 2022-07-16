@@ -20,10 +20,24 @@ Table 2: New District Summary
 
 
 How is the school summary affected?
+![Original_school_summary](https://github.com/AviLevyHTX/School_District_Analysis/blob/main/analysis/Original_school_performance.PNG)
+
+![New_school_summary](https://github.com/AviLevyHTX/School_District_Analysis/blob/main/analysis/New_school_summary.PNG)
+
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+![Original_THS_performance](https://github.com/AviLevyHTX/School_District_Analysis/blob/main/analysis/Original_THS_performance.PNG)
+
+![New_THS_performance](https://github.com/AviLevyHTX/School_District_Analysis/blob/main/analysis/New_THS_performance.PNG)
+
+
 How does replacing the ninth-grade scores affect the following:
+
 Math and reading scores by grade
+
 Scores by school spending
+
 Scores by school size
+
 Scores by school type
+
 Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
