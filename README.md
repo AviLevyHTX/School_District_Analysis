@@ -56,26 +56,26 @@ Results: Using bulleted lists and images of DataFrames as support, address the f
 
 #### Scores by school spending
 
-##### Table 9: Original School Spending Ranges Per Student
+##### Table 11: Original School Spending Ranges Per Student
 ![Original_school_spending](https://github.com/AviLevyHTX/School_District_Analysis/blob/main/analysis/Original_school_spending.PNG)
 
-##### Table 10: New School Spending Ranges Per Student
+##### Table 12: New School Spending Ranges Per Student
 ![New_school_spending](https://github.com/AviLevyHTX/School_District_Analysis/blob/main/analysis/New_school_spending.PNG)
 
 #### Scores by school size
 
-##### Table 11: Original Scores By School Size
+##### Table 13: Original Scores By School Size
 ![Original_school_size_spending](https://github.com/AviLevyHTX/School_District_Analysis/blob/main/analysis/Original_school_size_spending.PNG)
 
-##### Table 12: New Scores By School Size
+##### Table 14: New Scores By School Size
 ![New_school_size_spending](https://github.com/AviLevyHTX/School_District_Analysis/blob/main/analysis/New_school_size_spending.PNG)
 
 #### Scores by school type
 
-##### Table 13: Original Scores By School Type
+##### Table 15: Original Scores By School Type
 ![Original_school_type_spending](https://github.com/AviLevyHTX/School_District_Analysis/blob/main/analysis/Original_school_type_spending.PNG)
 
-##### Table 14: New Scores By School Type
+##### Table 16: New Scores By School Type
 ![New_school_type_spending](https://github.com/AviLevyHTX/School_District_Analysis/blob/main/analysis/New_school_type_spending.PNG) 
 
 Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
