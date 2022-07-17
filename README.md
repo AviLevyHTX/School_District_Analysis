@@ -9,39 +9,71 @@ Our goal is to replace the math and reading scores for Thomas High School with "
 
 Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
-How is the district summary affected?
+### How is the district summary affected?
 
-Table 1: Original District Summary
+##### Table 1: Original District Summary
 ![Original_district_summary](https://github.com/AviLevyHTX/School_District_Analysis/blob/main/analysis/Original_district_summary2.PNG)
 
-Table 2: New District Summary
+##### Table 2: New District Summary
 ![New_district_summary](https://github.com/AviLevyHTX/School_District_Analysis/blob/main/analysis/New_district_summary.PNG)
 
 
 
-How is the school summary affected?
-
+### How is the school summary affected?
+###### Table 3: Original Thomas High School Performance Summary
 ![Original_THS_performance](https://github.com/AviLevyHTX/School_District_Analysis/blob/main/analysis/Original_THS_performance1.PNG)
 
+##### Table 4: New Thomas High School Performance Summary
 ![New_THS_performance](https://github.com/AviLevyHTX/School_District_Analysis/blob/main/analysis/New_THS_performance.PNG)
 
 
 
-How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
+##### Table 5: Original School Performance Ranking
 ![Original_school_performance](https://github.com/AviLevyHTX/School_District_Analysis/blob/main/analysis/Original_school_performance1.PNG)
 
+##### Table 6: New School Performance Ranking
 ![New_school_performance](https://github.com/AviLevyHTX/School_District_Analysis/blob/main/analysis/New_school_performance.PNG)
 
 
-How does replacing the ninth-grade scores affect the following:
+### How does replacing the ninth-grade scores affect the following:
 
-Math and reading scores by grade
+#### Math and reading scores by grade
 
-Scores by school spending
+##### Table 7: Original Math and Reading Scores By Grade
+![Original_math_grade](https://github.com/AviLevyHTX/School_District_Analysis/blob/main/analysis/Original_math_grade.PNG)
 
-Scores by school size
+![Original_reading_grade](https://github.com/AviLevyHTX/School_District_Analysis/blob/main/analysis/Original_reading_grade.PNG)
 
-Scores by school type
+##### Table 8: New Math and Reading Scores By Grade
+![New_math_grade1](https://github.com/AviLevyHTX/School_District_Analysis/blob/main/analysis/New_math_grade1.PNG)
+
+![New_reading_grade](https://github.com/AviLevyHTX/School_District_Analysis/blob/main/analysis/New_reading_grade.PNG)
+
+
+#### Scores by school spending
+
+##### Table 9: Original School Spending Ranges Per Student
+![Original_school_spending(https://github.com/AviLevyHTX/School_District_Analysis/blob/main/analysis/Original_school_spending.PNG)
+
+##### Table 10: New School Spending Ranges Per Student
+![New_school_spending](https://github.com/AviLevyHTX/School_District_Analysis/blob/main/analysis/New_school_spending.PNG)
+
+#### Scores by school size
+
+##### Table 11: Original Scores By School Size
+![Original_school_size_spending](https://github.com/AviLevyHTX/School_District_Analysis/blob/main/analysis/Original_school_size_spending.PNG)
+
+##### Table 12: New Scores By School Size
+![New_school_size_spending](https://github.com/AviLevyHTX/School_District_Analysis/blob/main/analysis/New_school_size_spending.PNG)
+
+#### Scores by school type
+
+##### Table 13: Original Scores By School Type
+![Original_school_type_spending](https://github.com/AviLevyHTX/School_District_Analysis/blob/main/analysis/Original_school_type_spending.PNG)
+
+##### Table 14: New Scores By School Type
+![New_school_type_spending](https://github.com/AviLevyHTX/School_District_Analysis/blob/main/analysis/New_school_type_spending.PNG) 
 
 Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
