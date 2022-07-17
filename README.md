@@ -44,14 +44,16 @@ Results: Using bulleted lists and images of DataFrames as support, address the f
 ##### Table 7: Original Math Scores By Grade
 ![Original_math_grade](https://github.com/AviLevyHTX/School_District_Analysis/blob/main/analysis/Original_math_grade.PNG)
 
-##### Table 8: Original Reading Scores By Grade
-![Original_reading_grade](https://github.com/AviLevyHTX/School_District_Analysis/blob/main/analysis/Original_reading_grade.PNG)
-
-##### Table 9: New Math Scores By Grade
+##### Table 8: New Math Scores By Grade
 ![New_math_grade1](https://github.com/AviLevyHTX/School_District_Analysis/blob/main/analysis/New_math_grade1.PNG)
+
+##### Table 9: Original Reading Scores By Grade
+![Original_reading_grade](https://github.com/AviLevyHTX/School_District_Analysis/blob/main/analysis/Original_reading_grade.PNG)
 
 ##### Table 10: New Reading Scores By Grade
 ![New_reading_grade](https://github.com/AviLevyHTX/School_District_Analysis/blob/main/analysis/New_reading_grade.PNG)
+
+
 
 
 #### Scores by school spending
