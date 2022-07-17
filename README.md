@@ -41,21 +41,23 @@ Results: Using bulleted lists and images of DataFrames as support, address the f
 
 #### Math and reading scores by grade
 
-##### Table 7: Original Math and Reading Scores By Grade
+##### Table 7: Original Math Scores By Grade
 ![Original_math_grade](https://github.com/AviLevyHTX/School_District_Analysis/blob/main/analysis/Original_math_grade.PNG)
 
+##### Table 8: Original Reading Scores By Grade
 ![Original_reading_grade](https://github.com/AviLevyHTX/School_District_Analysis/blob/main/analysis/Original_reading_grade.PNG)
 
-##### Table 8: New Math and Reading Scores By Grade
+##### Table 9: New Math Scores By Grade
 ![New_math_grade1](https://github.com/AviLevyHTX/School_District_Analysis/blob/main/analysis/New_math_grade1.PNG)
 
+##### Table 10: New Reading Scores By Grade
 ![New_reading_grade](https://github.com/AviLevyHTX/School_District_Analysis/blob/main/analysis/New_reading_grade.PNG)
 
 
 #### Scores by school spending
 
 ##### Table 9: Original School Spending Ranges Per Student
-![Original_school_spending(https://github.com/AviLevyHTX/School_District_Analysis/blob/main/analysis/Original_school_spending.PNG)
+![Original_school_spending](https://github.com/AviLevyHTX/School_District_Analysis/blob/main/analysis/Original_school_spending.PNG)
 
 ##### Table 10: New School Spending Ranges Per Student
 ![New_school_spending](https://github.com/AviLevyHTX/School_District_Analysis/blob/main/analysis/New_school_spending.PNG)
