@@ -29,7 +29,7 @@ How is the school summary affected?
 
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-![Original_school_performance](https://github.com/AviLevyHTX/School_District_Analysis/blob/main/analysis/Original_school_performance.PNG)
+![Original_school_performance](https://github.com/AviLevyHTX/School_District_Analysis/blob/main/analysis/Original_school_performance1.PNG)
 
 ![New_school_performance](https://github.com/AviLevyHTX/School_District_Analysis/blob/main/analysis/New_school_performance.PNG)
 
